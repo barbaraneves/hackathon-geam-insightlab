@@ -1,7 +1,6 @@
 pynb_checkpoints
 **/.ipynb_checkpoints
 **/__pycache__
-**/*.csv
 data_output/
 **/*.7z
 **/*.deb
